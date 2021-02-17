@@ -1,0 +1,2 @@
+# Memer
+A discord bot.
